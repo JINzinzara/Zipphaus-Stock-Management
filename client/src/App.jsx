@@ -20,7 +20,7 @@ function App() {
 
   const renderPage = () => {
     switch (activeTab) {
-      case 'Inventory': return <Inventory />
+      case 'Inventory': return <Inventory user={user} />
       case 'Inventory History': return <InventoryHistory />
       case 'Order': return <Order />
       case 'Order History': return <OrderHistory />

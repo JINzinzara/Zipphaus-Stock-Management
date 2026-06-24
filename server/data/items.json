@@ -1,10 +1,18 @@
 [
-  {
-    "id": "item_01",
-    "name": "Sample Item",
-    "vendor_id": "ven_01",
-    "category": "Beverage",
-    "unit": "box",
-    "ct_per_box": 1
-  }
+  { "id": "item_01", "name": "Coffee Beans", "vendor_id": "ven_01", "category": "Beverage", "unit": "box", "ct_per_box": 6 },
+  { "id": "item_02", "name": "Tea Bags", "vendor_id": "ven_01", "category": "Beverage", "unit": "box", "ct_per_box": 100 },
+  { "id": "item_03", "name": "Cups", "vendor_id": "ven_01", "category": "Supply", "unit": "box", "ct_per_box": 50 },
+
+  { "id": "item_04", "name": "Milk", "vendor_id": "ven_02", "category": "Dairy", "unit": "box", "ct_per_box": 12 },
+  { "id": "item_05", "name": "Cream", "vendor_id": "ven_02", "category": "Dairy", "unit": "box", "ct_per_box": 12 },
+  { "id": "item_06", "name": "Sugar", "vendor_id": "ven_02", "category": "Food", "unit": "box", "ct_per_box": 24 },
+
+  { "id": "item_07", "name": "Napkins", "vendor_id": "ven_03", "category": "Supply", "unit": "box", "ct_per_box": 500 },
+  { "id": "item_08", "name": "Straws", "vendor_id": "ven_03", "category": "Supply", "unit": "box", "ct_per_box": 200 },
+
+  { "id": "item_09", "name": "Water Bottles", "vendor_id": "ven_04", "category": "Beverage", "unit": "box", "ct_per_box": 24 },
+  { "id": "item_10", "name": "Snacks", "vendor_id": "ven_04", "category": "Food", "unit": "box", "ct_per_box": 12 },
+  { "id": "item_11", "name": "Paper Bags", "vendor_id": "ven_04", "category": "Supply", "unit": "box", "ct_per_box": 100 },
+
+  { "id": "item_12", "name": "Cleaning Supply", "vendor_id": "ven_05", "category": "Supply", "unit": "box", "ct_per_box": 1 }
 ]

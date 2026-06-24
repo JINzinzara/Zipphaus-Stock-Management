@@ -1,1 +1,416 @@
-[]
+[
+  {
+    "id": "inv_1782300454526",
+    "location_id": "loc_01",
+    "user_id": "user_01",
+    "frequency": "Weekly",
+    "date": "2026-06-24",
+    "counts": [
+      {
+        "item_id": "item_01",
+        "box": 2,
+        "ct": 0
+      },
+      {
+        "item_id": "item_02",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_04",
+        "box": 2,
+        "ct": 0
+      },
+      {
+        "item_id": "item_03",
+        "box": 3,
+        "ct": 0
+      },
+      {
+        "item_id": "item_05",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_06",
+        "box": 3,
+        "ct": 0
+      },
+      {
+        "item_id": "item_07",
+        "box": 5,
+        "ct": 0
+      },
+      {
+        "item_id": "item_08",
+        "box": 5,
+        "ct": 0
+      },
+      {
+        "item_id": "item_09",
+        "box": 3,
+        "ct": 0
+      },
+      {
+        "item_id": "item_10",
+        "box": 6,
+        "ct": 0
+      },
+      {
+        "item_id": "item_11",
+        "box": -22,
+        "ct": 0
+      },
+      {
+        "item_id": "item_12",
+        "box": 0,
+        "ct": 0
+      }
+    ]
+  },
+  {
+    "id": "inv_1782300539768",
+    "location_id": "loc_01",
+    "user_id": "user_01",
+    "frequency": "Weekly",
+    "date": "2026-06-24",
+    "counts": [
+      {
+        "item_id": "item_01",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_02",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_03",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_04",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_05",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_06",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_07",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_08",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_09",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_10",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_11",
+        "box": -1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_12",
+        "box": 1,
+        "ct": 0
+      }
+    ]
+  },
+  {
+    "id": "inv_1782300785286",
+    "location_id": "loc_01",
+    "user_id": "user_01",
+    "frequency": "Weekly",
+    "date": "2026-06-24",
+    "counts": [
+      {
+        "item_id": "item_01",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_02",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_03",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_04",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_05",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_06",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_07",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_08",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_09",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_10",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_11",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_12",
+        "box": 1,
+        "ct": 0
+      }
+    ]
+  },
+  {
+    "id": "inv_1782300912753",
+    "location_id": "loc_01",
+    "user_id": "user_01",
+    "frequency": "Weekly",
+    "date": "2026-06-24",
+    "counts": [
+      {
+        "item_id": "item_01",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_02",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_03",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_04",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_05",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_06",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_07",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_08",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_09",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_10",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_11",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_12",
+        "box": 1,
+        "ct": 0
+      }
+    ]
+  },
+  {
+    "id": "inv_1782301002339",
+    "location_id": "loc_01",
+    "user_id": "user_01",
+    "frequency": "Weekly",
+    "date": "2026-06-24",
+    "counts": [
+      {
+        "item_id": "item_01",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_02",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_03",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_04",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_05",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_06",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_07",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_08",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_09",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_10",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_11",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_12",
+        "box": 1,
+        "ct": 0
+      }
+    ]
+  },
+  {
+    "id": "inv_1782301286184",
+    "location_id": "loc_01",
+    "user_id": "user_01",
+    "frequency": "Weekly",
+    "date": "2026-06-24",
+    "counts": [
+      {
+        "item_id": "item_01",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_02",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_03",
+        "box": 1,
+        "ct": 0
+      },
+      {
+        "item_id": "item_04",
+        "box": 2,
+        "ct": 0
+      },
+      {
+        "item_id": "item_05",
+        "box": 2,
+        "ct": 0
+      },
+      {
+        "item_id": "item_06",
+        "box": 2,
+        "ct": 0
+      },
+      {
+        "item_id": "item_07",
+        "box": 3,
+        "ct": 0
+      },
+      {
+        "item_id": "item_08",
+        "box": 3,
+        "ct": 0
+      },
+      {
+        "item_id": "item_09",
+        "box": 4,
+        "ct": 0
+      },
+      {
+        "item_id": "item_10",
+        "box": 4,
+        "ct": 0
+      },
+      {
+        "item_id": "item_11",
+        "box": 3,
+        "ct": 0
+      },
+      {
+        "item_id": "item_12",
+        "box": 5,
+        "ct": 0
+      }
+    ]
+  }
+]
