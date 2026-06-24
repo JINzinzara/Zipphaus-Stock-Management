@@ -22,7 +22,7 @@ function App() {
     switch (activeTab) {
       case 'Inventory': return <Inventory user={user} />
       case 'Inventory History': return <InventoryHistory user={user} />
-      case 'Order': return <Order />
+      case 'Order': return <Order user={user} />
       case 'Order History': return <OrderHistory />
       default: return <h2>Manager Overview</h2>
     }

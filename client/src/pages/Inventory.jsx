@@ -21,11 +21,16 @@ function Inventory({ user }) {
   }
 
   const handleSubmit = async () => {
-    const countList = Object.entries(counts).map(([item_id, values]) => ({
-      item_id,
-      box: Number(values.box) || 0,
-      ct: Number(values.ct) || 0,
-    }))
+  if (Object.keys(counts).length === 0) {
+    alert('수량을 입력해주세요')
+    return
+  }
+
+  const countList = Object.entries(counts).map(([item_id, values]) => ({
+    item_id,
+    box: Number(values.box) || 0,
+    ct: Number(values.ct) || 0,
+  }))
 
     const res = await fetch('http://localhost:3001/api/inventory/submit', {
       method: 'POST',
