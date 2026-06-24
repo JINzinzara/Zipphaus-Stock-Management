@@ -1,0 +1,8 @@
+[
+  { "id": "loc_01", "name": "PA South" },
+  { "id": "loc_02", "name": "PA North" },
+  { "id": "loc_03", "name": "SCMO1" },
+  { "id": "loc_04", "name": "SCMO2" },
+  { "id": "loc_05", "name": "AV" },
+  { "id": "loc_06", "name": "LAN" }
+]

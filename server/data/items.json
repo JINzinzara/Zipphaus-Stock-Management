@@ -1,0 +1,11 @@
+[
+  {
+    "_comment": "추후 데이터 받을 경우 다시 작성 필요",
+    "id": "item_01",
+    "name": "Sample Item",
+    "vendor_id": "ven_01",
+    "category": "Beverage",
+    "unit": "box",
+    "ct_per_box": 1
+  }
+]
