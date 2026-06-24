@@ -32,4 +32,11 @@ router.post('/login', (req, res) => {
   return res.status(401).json({ success: false, message: '지점 또는 PIN이 올바르지 않습니다' });
 });
 
+// GET /api/auth/locations
+router.get('/locations', (req, res) => {
+  const filePath = path.join(__dirname, '../data/locations.json');
+  const data = fs.readFileSync(filePath, 'utf-8');
+  res.json(JSON.parse(data));
+});
+
 module.exports = router;

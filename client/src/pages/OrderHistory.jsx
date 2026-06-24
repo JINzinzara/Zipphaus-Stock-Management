@@ -35,7 +35,7 @@ function OrderHistory({ user }) {
       <h2>Order History</h2>
       <p>{selected.date} · {selected.location_id}</p>
       {selected.items.filter(i => i.qty > 0).length === 0
-        ? <p>발주 없음</p>
+        ? <p>No Orders</p>
         : selected.items
             .filter(i => i.qty > 0)
             .map(i => (

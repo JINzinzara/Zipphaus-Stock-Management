@@ -4,6 +4,7 @@ import Inventory from './pages/Inventory'
 import InventoryHistory from './pages/InventoryHistory'
 import Order from './pages/Order'
 import OrderHistory from './pages/OrderHistory'
+import ManagerOverview from './pages/ManagerOverview'
 
 const STAFF_TABS = ['Inventory', 'Inventory History', 'Order', 'Order History']
 const MANAGER_TABS = [...STAFF_TABS, 'Manager Overview']
@@ -24,7 +25,7 @@ function App() {
       case 'Inventory History': return <InventoryHistory user={user} />
       case 'Order': return <Order user={user} />
       case 'Order History': return <OrderHistory user={user} />
-      default: return <h2>Manager Overview</h2>
+      default: return <ManagerOverview />
     }
   }
 
