@@ -23,7 +23,7 @@ function App() {
       case 'Inventory': return <Inventory user={user} />
       case 'Inventory History': return <InventoryHistory user={user} />
       case 'Order': return <Order user={user} />
-      case 'Order History': return <OrderHistory />
+      case 'Order History': return <OrderHistory user={user} />
       default: return <h2>Manager Overview</h2>
     }
   }

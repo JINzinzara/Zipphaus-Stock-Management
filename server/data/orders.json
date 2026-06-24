@@ -54,5 +54,12 @@
         "qty": 1
       }
     ]
+  },
+  {
+    "id": "order_1782308459045",
+    "location_id": "loc_01",
+    "user_id": "user_01",
+    "date": "2026-06-24",
+    "items": []
   }
 ]
