@@ -39,6 +39,9 @@ router.post('/submit', (req, res) => {
     date: new Date().toISOString().split('T')[0],
     counts
   };
+  if (counts.some(c => c.box < 0 || c.ct < 0)) {
+  return res.status(400).json({ success: false, message: '0 이하 값은 입력할 수 없습니다' })
+}
 
   inventory.push(submission);
   writeJSON('inventory.json', inventory);
@@ -47,3 +50,14 @@ router.post('/submit', (req, res) => {
 });
 
 module.exports = router;
+// 재고 제출 기록 조회
+router.get('/history', (req, res) => {
+  const { location_id } = req.query
+  const inventory = readJSON('inventory.json')
+
+  const result = location_id
+    ? inventory.filter(item => item.location_id === location_id)
+    : inventory
+
+  res.json(result.reverse())
+})

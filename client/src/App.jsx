@@ -21,7 +21,7 @@ function App() {
   const renderPage = () => {
     switch (activeTab) {
       case 'Inventory': return <Inventory user={user} />
-      case 'Inventory History': return <InventoryHistory />
+      case 'Inventory History': return <InventoryHistory user={user} />
       case 'Order': return <Order />
       case 'Order History': return <OrderHistory />
       default: return <h2>Manager Overview</h2>
