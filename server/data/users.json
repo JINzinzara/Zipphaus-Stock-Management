@@ -1,6 +1,5 @@
 [
   {
-    "_comment": "추후 직원 수가 증가하거나 PIN 번호 변경시에는?",
     "id": "user_01",
     "name": "Staff 1",
     "role": "staff",
